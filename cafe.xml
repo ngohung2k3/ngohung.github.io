@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cafes>
+    <cafe>
+        <STT>1</STT>
+        <name>Sữa chua dừa</name>
+        <price>30000</price>
+    </cafe>
+    <cafe>
+        <STT>2</STT>
+        <name>Sinh tố xoài</name>
+        <price>25000</price>
+    </cafe>
+    <cafe>
+        <STT>3</STT>
+        <name>Cafe đen</name>
+        <price>15000</price>
+    </cafe>
+    <cafe>
+        <STT>4</STT>
+        <name>Sữa chua</name>
+        <price>25000</price>
+    </cafe>
+    <cafe>
+        <STT>5</STT>
+        <name>Sữa chua đá</name>
+        <price>25000</price>
+    </cafe>
+    <cafe>
+        <STT>6</STT>
+        <name>Trà chanh nóng</name>
+        <price>15000</price>
+    </cafe>
+    <cafe>
+        <STT>7</STT>
+        <name>Cafe sữa</name>
+        <price>35000</price>
+    </cafe>
+    <cafe>
+        <STT>8</STT>
+        <name>Sinh tố dưa hấu</name>
+        <price>25000</price>
+    </cafe>
+    <cafe>
+        <STT>9</STT>
+        <name>Sữa chua cacao</name>
+        <price>45000</price>
+    </cafe>
+    <cafe>
+        <STT>10</STT>
+        <name>Nước dừa xiêm</name>
+        <price>35000</price>
+    </cafe>
+    <cafe>
+        <STT>11</STT>
+        <name>Coca</name>
+        <price>10000</price>
+    </cafe>
+    <cafe>
+        <STT>12</STT>
+        <name>Sprite</name>
+        <price>25000</price>
+    </cafe>
+    <cafe>
+        <STT>13</STT>
+        <name>Nước khoáng</name>
+        <price>15000</price>
+    </cafe>
+    <cafe>
+        <STT>14</STT>
+        <name>Soda</name>
+        <price>25000</price>
+    </cafe>
+    <cafe>
+        <STT>15</STT>
+        <name>Bí đao</name>
+        <price>10000</price>
+    </cafe>
+    <cafe>
+        <STT>16</STT>
+        <name>Trà tắc</name>
+        <price>50000</price>
+    </cafe>
+    <cafe>
+        <STT>17</STT>
+        <name>Sinh tố táo</name>
+        <price>25000</price>
+    </cafe>
+    <cafe>
+        <STT>18</STT>
+        <name>Sinh tố mãng cầu</name>
+        <price>25000</price>
+    </cafe>
+    <cafe>
+        <STT>19</STT>
+        <name>7Up</name>
+        <price>15000</price>
+    </cafe>
+</cafes>
